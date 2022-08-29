@@ -5,7 +5,7 @@
     color: 
   #0087ca;
   }
-  
+
 .Unkown-class:after {
     content: '';
     position: absolute;
@@ -50,3 +50,7 @@
     transform: scaleX(1);
     transform-origin: bottom left;
   }
+
+ .name {
+    font-size: 64px;
+} 
